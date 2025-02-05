@@ -9,7 +9,7 @@ description: >-
   Discover how to maximize your coding journey at 4Geeks Academy! Overcome
   challenges and unlock your potential. Start learning today!
 ---
-Welcome!! 🤩👏 My name is Alejandro, and I'm typing these words after years of teaching code and changing lives. Please, I beg you to read until the end, I will try my best not to bore you!
+Welcome! 🤩👏 My name is Alejandro, and I'm typing these words after years of teaching code and changing lives. Please, I beg you to read until the end, I will try my best not to bore you!
 
 ## What you already know
 
